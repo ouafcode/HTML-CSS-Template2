@@ -2,6 +2,10 @@
 
 This is a responsive landing page built using **HTML** and **CSS** only. It showcases a modern web layout with smooth navigation, sliding hero images, services, pricing, gallery, testimonials, and skill bars.
 
+## 🌐 Live Demo
+
+[Click here to view the website](https://ouafcode.github.io/HTML-CSS-Template2/)
+
 ## 🚀 Features
 
 - ✅ Responsive design for desktop, tablet, and mobile
